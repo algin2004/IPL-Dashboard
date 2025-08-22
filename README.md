@@ -55,5 +55,5 @@ This interactive dashboard provides insights on:
 - **Dataset** in `.csv` or Excel format stored in the `data` folder.
 
 ---
-
+ Created by **[ALGIN FARRELL](https://www.linkedin.com/in/algin-farrell-16681432b)**  
 
